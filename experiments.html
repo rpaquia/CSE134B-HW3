@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en"> 
+
+<head>
+    <title>Experiments Section</title>
+    <meta charset="utf-8">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Homepage</a> |
+            <a href="project.html">Projects</a> |
+            <a href="experiments.html">Experiments</a>
+        </nav>
+        <h1>Experiments Section</h1>
+    </header>
+    <hr>
+    <p>This page is for <strong>testing tags on this website.</strong></p>
+    <h3>Rectangle Test Start</h3>
+    <section>
+        <h3>Testing canvas and script tags</h3>
+        <canvas id="Canvas">
+        Your browser down not support the canvas tag.
+        </canvas>
+        <script>
+        var canvas = document.getElementById("Canvas");
+        var ctx = canvas.getContext("2d");
+        ctx.fillStyle = "#00FF00";
+        ctx.fillRect(0, 0, 80, 80);
+        </script> <!-- script,h1,p tags DONE-->
+    </section>
+    <h3>Rectangle Test End</h3>
+
+    <h3>Testing div and span tags</h3>
+    <p>Text above div</p>
+    <div>
+    <p>This paragraph is inside a div. The word <span style="color:red">car</span> is in red </p>
+    </div>
+    <p>Text under div</p>
+
+    <h3>Testing em tag</h3>
+    <p>The important part of this paragraph is in <em>italics</em></p>
+
+    <h3>Testing code tag</h3>
+    <p>The <code>body</code> defines the main part of the page you want to display information on
+
+    <h3>Testing pre tag</h3>
+    <pre>This tag   preserves all
+        s paces and line
+        breaks
+    </pre>
+
+    <h3>Testing hr and em tagtag</h3>
+    <p>This is some text <em>above</em> an hr tag.</p>
+    <hr>
+    <p>This bottom text <em>below</em> an hr tag.</p>
+
+    <h3>Testing iframe tag</h3>
+    <iframe src="https://ucsd.edu/" title="UCSD Website">
+    </iframe>
+
+    <h3>Testing audio tag</h3>
+    <audio controls>
+        <source src="audio/dog.mp3" type="audio/mpeg">
+    </audio>
+
+    <h3>Testing ol tag</h3>
+    <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ol>
+
+    <h3>Testing video tag</h3>
+    <video width="200" height="150" controls>
+        <source src="video/fire.mp4" type="video/mp4"> 
+    </video>
+
+    <h3>Testing optgroup, select,  tag</h3>
+    <form action="/action_page.php">
+        <label for="colors">Choose a color:</label>
+        <select name="colors" id="colors">
+          <optgroup label="Colors">
+            <option value="green">Green</option>
+            <option value="orange">orange</option>
+          </optgroup>
+        </select>
+        <br><br>
+        <input type="submit" value="Submit">
+      </form>
+    
+    <h3>Testing textarea tag</h3>
+    <textarea id="box" name="boxtext" rows = "5" cols="40">This box has text inside of it.</textarea>
+
+    <h3>Testing datalist tag</h3>
+    <form action="/action_page.php" method="get">
+        <label for="browser">Choose your favorite browser:</label>
+        <input list="browsers" name="browser" id="browser">
+        <datalist id="browsers">
+          <option value="Mozilla Firefox">
+          <option value="Internet Explorer">
+          <option value="OperaGX">
+        </datalist>
+        <input type="submit">
+      </form>
+    
+    <h3>Testing svg tag</h3>
+    <svg width="100" height="100">
+        <circle cx="40" cy="40" r="30" stroke="blue" stroke-width="7" fill="orange"/>
+    </svg>
+
+    <h3>Testing summary and details tag</h3>
+    <details>
+        <summary>Text</summary>
+        <p>This text is hidden.</p>
+    </details>
+
+    <h3>Testing template tag </h3>
+        <template>
+            <h2>No Picture Image</h2>
+            <img src="images/no_img.jpg" alt="No Image Picture" width="100" height="100">
+        </template>
+        <script>
+        </script> <!--script needed to make template work-->
+        <p>script tag for template left empty as a placeholder for future use</p>
+
+    <h3>Testing table,tr,th,td,caption,col, and colgroup tag</h3>
+        <table>
+            <caption>Cars</caption>
+            <colgroup>
+                <col span="2" style="background-color:rgb(152, 155, 16)">
+                <col style="background-color:red">
+            </colgroup>
+            <tr>
+                <th>Make</th>
+                <th>Model</th>
+                <th>Cost</th>
+            </tr>
+            <tr>
+                <td>Chevrolet</td>
+                <td>Traverse</td>
+                <td>$50,000</td>
+            </tr>
+        </table>
+
+    <h3>Testing figure tag</h3>
+        <figure>
+            <img src="images/no_img_3.jpg" alt="No Image Picture" style="width:25%">
+            <figcaption>Fig.1 - Picture of "No Image Available"</figcaption>
+        </figure>
+
+    <hr>
+    <footer>
+        <nav>
+            <a href="index.html">Homepage</a> |
+            <a href="project.html">Projects</a> |
+            <a href="experiments.html">Experiments</a>
+        </nav>
+            <p> This page created by Ryan Paquia</p>
+        <div>
+            <strong>Email: rpaquia@ucsd.edu</strong>
+        </div>
+    </footer>
+</body>
