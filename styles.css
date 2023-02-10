@@ -6,6 +6,7 @@ html * {
 h1 {
     color:black;
     text-align: center;
+    font-size: 3em;
 }
 :root {
     --matcha: #69bf64;
