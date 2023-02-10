@@ -33,6 +33,12 @@ span {
 #h2 {
     text-align: center;
 }
+button {
+    width:100px;
+    height:75px;
+    background: white;
+    transition: width 2s;
+}
 #button_tran:hover {
     width: 200px;
 }
