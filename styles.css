@@ -4,6 +4,7 @@ html {
 }
 h1 {
     color:black;
+    text-align: center;
 }
 :root {
     --matcha: #69bf64;
@@ -23,4 +24,5 @@ h2 {
 span {
     font-size: 2em;
 }
+
     
