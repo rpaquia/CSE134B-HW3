@@ -1,0 +1,19 @@
+h1 {
+    color:black;
+}
+:root {
+    --matcha: #69bf64;
+}
+body {
+    background-color:var(--matcha);
+}
+.p1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+    
