@@ -1,6 +1,7 @@
-html {
+html * {
     font-size: 2vw;
     font-size: 2vh;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h1 {
     color:black;
