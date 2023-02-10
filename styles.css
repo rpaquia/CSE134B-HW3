@@ -46,7 +46,7 @@ button {
     width: 200px;
 }
 a:link, a:visited {
-    background-color: #F1FDF3;
+    background-color: #99CDA9;
     color: #D1E9D2;
     padding: 14px 25px;
     text-align: center;
@@ -55,5 +55,5 @@ a:link, a:visited {
   }
   
   a:hover, a:active {
-    background-color: #99CDA9;
+    background-color: #F1FDF3;
   }
