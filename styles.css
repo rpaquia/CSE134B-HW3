@@ -13,7 +13,7 @@ h1 {
 body {
     background-color:var(--matcha);
 }
-.p1 {
+#p1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h1 {
