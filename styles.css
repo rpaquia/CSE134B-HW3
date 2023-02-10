@@ -35,7 +35,7 @@ span {
 }
 button {
     width:100px;
-    height:75px;
+    height:25px;
     background: white;
     transition: width 2s;
 }
