@@ -60,15 +60,18 @@ a:link, a:visited {
     background-color: #D1E9D2;
   }
 
+/* Change colors for project 1 and 2 headers */
 #div1 {
-    animation: project 5s initial;
-    animation-timing-function: linear;
-
+    width: 100px;
+    height: 25px;
+    animation-name: project;
+    animation-duration: 4s;
 }
-
 @keyframes project {
-    from {left:0px;}
-    to {left:300px;}
+    0% {background-color: #F1FDF3}
+    25% {background-color: #E5F4E7}
+    50% {background-color: #D1E9D2}
+    100% {background-color: #000000}
 }  
 
 
