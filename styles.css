@@ -61,5 +61,11 @@ a:link, a:visited {
   }
 
 #div1 {
+    animation: mymove 5s;
     animation-timing-function: linear;
+}
+
+@keyframes mymove {
+    from {left:0px;}
+    to {left:300px;}
 }
