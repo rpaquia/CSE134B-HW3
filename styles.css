@@ -45,6 +45,8 @@ button {
 #button_tran:hover {
     width: 200px;
 }
+
+/* Top and bottom links styling */
 a:link, a:visited {
     background-color: #99CDA9;
     color: #F1FDF3;
@@ -57,3 +59,7 @@ a:link, a:visited {
   a:hover, a:active {
     background-color: #D1E9D2;
   }
+
+#div1 {
+    animation-timing-function: linear;
+}
