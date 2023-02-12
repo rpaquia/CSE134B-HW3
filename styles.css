@@ -60,15 +60,15 @@ a:link, a:visited {
     background-color: #D1E9D2;
   }
 
-title {
+#div1 {
     animation: project 5s initial;
+    animation-timing-function: linear;
+
 }
+
 @keyframes project {
     from {left:0px;}
     to {left:300px;}
 }  
 
-#div1 {
-    animation-timing-function: linear;
-}
 
