@@ -60,12 +60,15 @@ a:link, a:visited {
     background-color: #D1E9D2;
   }
 
-#div1 {
-    animation: mymove 5s;
-    animation-timing-function: linear;
+title {
+    animation: project 5s;
 }
-
 @keyframes mymove {
     from {left:0px;}
     to {left:300px;}
+}  
+
+#div1 {
+    animation-timing-function: linear;
 }
+
