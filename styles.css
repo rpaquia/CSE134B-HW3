@@ -63,7 +63,7 @@ a:link, a:visited {
 title {
     animation: project 5s initial;
 }
-@keyframes mymove {
+@keyframes project {
     from {left:0px;}
     to {left:300px;}
 }  
