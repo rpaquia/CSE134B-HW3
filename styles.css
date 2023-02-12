@@ -61,7 +61,7 @@ a:link, a:visited {
   }
 
 title {
-    animation: project 5s;
+    animation: project 5s initial;
 }
 @keyframes mymove {
     from {left:0px;}
