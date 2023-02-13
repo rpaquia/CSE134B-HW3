@@ -76,6 +76,11 @@ a:link, a:visited {
     100% {background-color: #99CDA9}
 }  
 
+div.size {
+    width: 100px;
+    height: 75px;
+    padding:50px;
+}
 /* CSS transform */
 div.left {
     width: 100px;
