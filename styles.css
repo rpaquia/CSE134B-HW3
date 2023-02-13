@@ -81,10 +81,14 @@ div.left {
     width: 100px;
     height: 100px;
     background-color: black;
+    position: relative;
+    left:-20px;
 }
 div.right {
     width: 100px;
     height: 100px;
     background-color: black;
+    position: relative;
+    right: 20px;
 }
 
