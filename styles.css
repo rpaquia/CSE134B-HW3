@@ -81,13 +81,11 @@ div.size {
     height: 75px;
 }
 /* CSS transform */
-div.left {
+div.translation {
     width: 100px;
     height: 100px;
     background-color: black;
-    position: relative;
-    float:left;
-    height:300px;
+    transform:translate(50px,50px);
 }
 div.right {
     width: 100px;
