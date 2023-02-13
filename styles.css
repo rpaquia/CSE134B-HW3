@@ -84,7 +84,7 @@ div.size {
 div.translation {
     width: 100px;
     height: 100px;
-    background-color: black;
+    background-color: white;
     transform:translate(50px,50px);
 }
 div.right {
