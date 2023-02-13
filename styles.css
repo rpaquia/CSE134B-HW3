@@ -29,6 +29,7 @@ span {
 }
 #nav1 {
     text-align: right;
+    float:right;
 }
 #nav2 {
     text-align: left;
