@@ -36,6 +36,8 @@ span {
 #h2 {
     text-align: center;
 }
+
+/* CSS transition */
 button {
     width:100px;
     height:25px;
@@ -60,7 +62,7 @@ a:link, a:visited {
     background-color: #D1E9D2;
   }
 
-/* Change colors for project 1 and 2 headers */
+/* Change colors for project 1 and 2 headers (CSS animation) */
 #div1 {
     width: 80px;
     height: 25px;
@@ -74,4 +76,15 @@ a:link, a:visited {
     100% {background-color: #99CDA9}
 }  
 
+/* CSS transform */
+div.left {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+div.right {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
 
