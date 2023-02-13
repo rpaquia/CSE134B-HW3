@@ -82,13 +82,15 @@ div.left {
     height: 100px;
     background-color: black;
     position: relative;
-    left:20px;
+    float:left;
+    height:300px;
 }
 div.right {
     width: 100px;
     height: 100px;
     background-color: black;
     position: relative;
-    right: 20px;
+    float:right;
+    height:300px;
 }
 
