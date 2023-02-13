@@ -83,7 +83,7 @@ div.left {
     background-color: black;
     position: relative;
     float:left;
-    height:250px;
+    height:300px;
 }
 div.right {
     width: 100px;
@@ -91,6 +91,6 @@ div.right {
     background-color: black;
     position: relative;
     float:right;
-    height: 250px;
+    height: 300px;
 }
 
