@@ -29,7 +29,6 @@ span {
 }
 #nav1 {
     text-align: right;
-    float:right;
 }
 #nav2 {
     text-align: left;
@@ -80,7 +79,6 @@ a:link, a:visited {
 div.size {
     width: 100px;
     height: 75px;
-    padding:50px;
 }
 /* CSS transform */
 div.left {
