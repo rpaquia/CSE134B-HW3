@@ -101,3 +101,14 @@ div.rot {
         text-align:center;
     }
 }
+
+.header image {
+    float: left;
+    width:200px;
+    height:200px;
+}
+.header h2 {
+    position:relative;
+    top:100px;
+    text-align: center;
+}
