@@ -102,11 +102,6 @@ div.rot {
     }
 }
 
-.header image {
-    float: left;
-    width:100px;
-    height:100px;
-}
 .header h2 {
     position:relative;
     top:20px;
