@@ -64,7 +64,7 @@ a:link, a:visited {
 
 /* Change colors for project 1 and 2 headers (CSS animation) */
 #div1 {
-    width: 65px;
+    width: 75px;
     height: 25px;
     animation-name: project;
     animation-duration: 4s;
