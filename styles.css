@@ -82,16 +82,12 @@ div.size {
 }
 
 /* CSS transform */
-div.translation {
-    
-    transform:translate(50px,100px);
-}
-
 div.rot {
     width: 200px;
     height: 25px;
     background-color: white;
     transform:skewX(20deg);
+    transform:translate(50px,100px);
 }
 
 #spacer {
