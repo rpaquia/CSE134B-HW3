@@ -91,7 +91,7 @@ div.rot {
 }
 
 @media screen and (max-width:480px) {
-    nav {
+    main {
         background-color: purple;
     }
 }
