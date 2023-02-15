@@ -80,13 +80,7 @@ div.size {
     width: 100px;
     height: 75px;
 }
-/* CSS transform */
-div.translation {
-    width: 200px;
-    height: 25px;
-    background-color: white;
-    transform:translate(0px,0px);
-}
+
 div.right {
     width: 100px;
     height: 100px;
