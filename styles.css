@@ -94,3 +94,8 @@ div.rot {
     transform:skewX(20deg);
 }
 
+#spacer {
+    background-color: #99CDA9;
+    padding-bottom: 200px;
+}
+
