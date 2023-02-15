@@ -82,7 +82,7 @@ div.rot {
     height: 25px;
     background-color: white;
     transform:skewX(20deg);
-    
+    padding-left: 50px;
 }
 
 #spacer {
