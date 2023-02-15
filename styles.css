@@ -92,6 +92,12 @@ div.rot {
 
 @media screen and (max-width:480px) {
     nav {
-        text-align:left;
+        text-align:center;
+    }
+    a {
+        text-align: center;
+    }
+    header {
+        text-align:center;
     }
 }
