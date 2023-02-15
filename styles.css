@@ -4,7 +4,10 @@ html * {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #toppart {
-    background-color: #99CDA9;
+    background-color: #99CDA9
+}
+.homepage {
+    height:100%;
 }
 h1 {
     color:black;
