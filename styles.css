@@ -86,15 +86,10 @@ div.translation {
     width: 200px;
     height: 25px;
     background-color: white;
-    transform:translate(50px,75px);
+    transform:translate(50px,100px);
 }
 
-div.right {
-    width: 100px;
-    height: 100px;
-    background-color: black;
-    position: relative;
-    float:right;
-    height: 300px;
+div.rot {
+    
 }
 
