@@ -91,7 +91,7 @@ div.rot {
 }
 
 @media screen and (max-width:480px) {
-    main {
-        background-color: purple;
+    header {
+        text-align:center;
     }
 }
