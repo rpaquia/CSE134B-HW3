@@ -88,7 +88,20 @@ a:link, a:visited {
     25% {background-color: #E5F4E7}
     50% {background-color: #D1E9D2}
     100% {background-color: #99CDA9}
-}  
+} 
+
+#changeName {
+    width: 80px;
+    height: 25px;
+    animation-name: project;
+    animation-duration: 4s;
+}
+@keyframes project {
+    0% {background-color: #F1FDF3}
+    25% {background-color: #E5F4E7}
+    50% {background-color: #D1E9D2}
+    100% {background-color: #99CDA9}
+}
 
 /* CSS transform */
 div.rot {
@@ -125,4 +138,8 @@ div.rot {
 
 .greenandgreen {
     background-color: linear-gradient(#99CDA9, #E5F4E7);
+}
+
+label {
+    text-align: center;
 }
