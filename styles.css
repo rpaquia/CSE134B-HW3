@@ -136,10 +136,6 @@ div.rot {
     font-size: 2rem;
 }
 
-.greenandgreen {
-    background-color: linear-gradient(#99CDA9, #E5F4E7);
-}
-
 /*flexbox testing*/
 .flex-container {
     display:flex;
