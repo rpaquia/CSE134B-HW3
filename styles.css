@@ -140,11 +140,11 @@ div.rot {
 .flex-container {
     display:flex;
     background-color: purple;
-    width: 480px;
+    width: 450px;
 }
 .flex-container > div {
     background-color:darkcyan;
-    margin: 20px;
+    margin: 15px; /*space between boxes*/
     padding: 30px;
     font-size: 30px;
 }
