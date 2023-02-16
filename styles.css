@@ -140,14 +140,14 @@ div.rot {
     background-color: linear-gradient(#99CDA9, #E5F4E7);
 }
 
-.flex-container {
-    display: flex;
-    background-color: DodgerBlue;
-  }
-  
-  .flex-container > div {
-    background-color: #f1f1f1;
-    margin: 10px;
-    padding: 20px;
+.fb-container {
+    display:flex;
+    background-color: purple;
+}
+
+.fb-container > div {
+    background-color:darkcyan;
+    margin: 20px;
+    padding: 30px;
     font-size: 30px;
-  }
+}
