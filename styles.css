@@ -17,8 +17,11 @@ h1 {
 :root {
     --chinook: #99CDA9;
 }
-#body {
+body {
     background-color:var(--chinook);
+}
+#body2 {
+
 }
 #p1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
