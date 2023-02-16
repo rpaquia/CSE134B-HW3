@@ -20,8 +20,13 @@ h1 {
 body {
     background-color:var(--chinook);
 }
-#body2 {
-
+.body2 {
+    width:100%;
+    height:100vh;
+    background:linear-gradient(
+        to top, #99CDA9 0%, #99CDA9 50%,
+        #E5F4E7 50%, #E5F4E7 100%
+    );
 }
 #p1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
