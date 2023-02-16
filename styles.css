@@ -143,6 +143,7 @@ div.rot {
 .flex-container {
     display:flex;
     background-color: purple;
+    width: 400px;
 }
 
 .flex-container > div {
