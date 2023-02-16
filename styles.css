@@ -140,7 +140,7 @@ div.rot {
 .flex-container {
     display:flex;
     background-color: purple;
-    width: 450px;
+    width: 480px;
 }
 .flex-container > div {
     background-color:darkcyan;
