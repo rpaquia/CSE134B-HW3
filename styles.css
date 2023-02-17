@@ -149,12 +149,12 @@ div.rot {
 
 .header img {
     float: left;
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
   }
   
   .header h1 {
-    text-align:center;
+    position: relative;
     top: 20px;
     left: 50px;
   }
