@@ -130,6 +130,9 @@ div.rot {
     div {
         text-align: center;
     }
+    body {
+        font-size: 0.5vw;
+    }
 }
 
 #header2 {
