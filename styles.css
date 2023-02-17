@@ -154,7 +154,7 @@ div.rot {
   }
   
   .header h1 {
-    position: relative;
+    text-align:center;
     top: 20px;
     left: 50px;
   }
