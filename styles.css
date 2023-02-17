@@ -50,6 +50,9 @@ span {
 #h2 {
     text-align: center;
 }
+input[type=text] {
+    border:#D1E9D2;
+}
 
 /* CSS transition */
 button {
@@ -71,7 +74,6 @@ a:link, a:visited {
     text-decoration: none;
     display: inline-block;
   }
-  
   a:hover, a:active {
     background-color: #D1E9D2;
   }
@@ -147,7 +149,6 @@ div.rot {
         text-align: center;
     }
 }
-
 #header2 {
     text-align: center;
     font-size: 2rem;
