@@ -118,7 +118,7 @@ div.rot {
 }
 
 @media screen and (max-width:480px) {
-    aside {
+    nav {
         text-align:center;
     }
     a {
