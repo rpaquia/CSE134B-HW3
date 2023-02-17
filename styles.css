@@ -149,8 +149,13 @@ div.rot {
 
 .header img {
     float: left;
-}
-.header h1 {
-    text-align: center;
-}
+    width: 100px;
+    height: 200px;
+  }
+  
+  .header h1 {
+    position: relative;
+    top: 18px;
+    left: 50px;
+  }
 
