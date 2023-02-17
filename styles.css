@@ -127,7 +127,9 @@ div.rot {
     p {
         text-align: center;
     }
-    
+    div {
+        text-align: center;
+    }
 }
 
 #header2 {
