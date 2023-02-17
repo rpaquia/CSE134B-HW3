@@ -51,7 +51,7 @@ span {
     text-align: center;
 }
 input[type=text] {
-    border:#D1E9D2;
+    border:purple;
 }
 
 /* CSS transition */
