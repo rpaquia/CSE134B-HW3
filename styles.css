@@ -118,7 +118,7 @@ div.rot {
 }
 
 @media screen and (max-width:480px) {
-    nav {
+    aside {
         text-align:center;
     }
     a {
@@ -154,5 +154,6 @@ div.rot {
 }
 .header h1 {
     text-align: center;
-    
 }
+
+/*nav bar query*/
